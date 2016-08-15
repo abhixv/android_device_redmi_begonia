@@ -150,3 +150,6 @@ ro.com.google.ime.corner_key_r=35
 # perfetto
 iorapd.perfetto.enable=true 
 iorapd.readahead.enable=true
+
+# Surfaceflinger
+debug.sf.disable_hwc_vds=1 
