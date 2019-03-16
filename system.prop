@@ -77,3 +77,6 @@ persist.device.config.runtime_native.uasp_pool_enabled=true
 # Blur
 ro.surface_flinger.supports_background_blur=1
 ro.sf.blurs_are_expensive=1
+
+# Surfaceflinger
+debug.cpurend.vsync=false
