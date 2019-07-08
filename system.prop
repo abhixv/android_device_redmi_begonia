@@ -153,3 +153,4 @@ iorapd.readahead.enable=true
 
 # Surfaceflinger
 debug.sf.disable_hwc_vds=1 
+debug.sf.latch_unsignaled=1
