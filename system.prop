@@ -156,5 +156,9 @@ debug.sf.disable_hwc_vds=1
 debug.sf.latch_unsignaled=1
 debug.cpurend.vsync=false
 
+# Fast App Launch
+PRODUCT_PROPERTY_OVERRIDES += \
+    persist.device_config.runtime_native.usap_pool_enabled=true
+
 # Graphics
 ro.config.avoid_gfx_accel=true
