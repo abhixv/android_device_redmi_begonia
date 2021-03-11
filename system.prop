@@ -155,3 +155,6 @@ iorapd.readahead.enable=true
 debug.sf.disable_hwc_vds=1 
 debug.sf.latch_unsignaled=1
 debug.cpurend.vsync=false
+
+# Graphics
+ro.config.avoid_gfx_accel=true
