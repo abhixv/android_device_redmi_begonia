@@ -29,6 +29,7 @@ $(call inherit-product, device/redmi/begonia/device.mk)
 #Sakura Flag
 SAKURA_OFFICIAL := true
 SAKURA_MAINTAINER := abhixv
+SAKURA_BUILD_TYPE := basicgapps
 TARGET_BOOT_ANIMATION_RES := 1080
 
 # Inherit from our custom product configuration
